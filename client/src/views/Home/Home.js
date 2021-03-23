@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../assets/logo.svg';
+import logo from '../../assets/club_logo.png';
 import './Home.css';
 
 function Home() {
@@ -8,7 +8,7 @@ function Home() {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
-                    Edit <code>src/App.js</code> and save to reload.
+                    {/* Edit <code>src/App.js</code> and save to reload. */}
                 </p>
                 <a
                     className="App-link"
